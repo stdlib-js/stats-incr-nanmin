@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import incrnanmin from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-nanmin@esm/index.mjs';
+import incrnanmin from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-nanmin@v0.1.1-esm/index.mjs';
 ```
 
 #### incrnanmin()
@@ -103,7 +103,7 @@ min = accumulator();
 
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bernoulli@esm/index.mjs';
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@esm/index.mjs';
-import incrnanmin from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-nanmin@esm/index.mjs';
+import incrnanmin from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-nanmin@v0.1.1-esm/index.mjs';
 
 var accumulator;
 var v;
